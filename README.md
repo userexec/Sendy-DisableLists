@@ -1,3 +1,7 @@
+**This project is no longer maintained and will not function with newer versions of Sendy.**
+
+This repo is for archival purposes only. Newer forks of this project may function on newer versions of Sendy.
+
 # Sendy-DisableLists
 
 Per-brand list management permission removal for [Sendy](http://sendy.co) email server
